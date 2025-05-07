@@ -1,0 +1,14 @@
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/bin/Release/net8.0/PayloadStage2
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/bin/Release/net8.0/PayloadStage2.deps.json
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/bin/Release/net8.0/PayloadStage2.runtimeconfig.json
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/bin/Release/net8.0/PayloadStage2.dll
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/bin/Release/net8.0/PayloadStage2.pdb
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/PayloadStage2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/PayloadStage2.AssemblyInfoInputs.cache
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/PayloadStage2.AssemblyInfo.cs
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/PayloadStage2.csproj.CoreCompileInputs.cache
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/PayloadStage2.dll
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/refint/PayloadStage2.dll
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/PayloadStage2.pdb
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/PayloadStage2.genruntimeconfig.cache
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/obj/Release/net8.0/ref/PayloadStage2.dll
