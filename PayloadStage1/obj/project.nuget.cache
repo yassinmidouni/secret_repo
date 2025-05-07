@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Fc1jNr54JE0=",
+  "dgSpecHash": "tsT4UArhaqQ=",
   "success": true,
   "projectFilePath": "/home/nethunter/payload-labyrinth-challenge/PayloadStage1/PayloadStage1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/nethunter/.nuget/packages/microsoft.net.illink.tasks/8.0.14/microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "/home/nethunter/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.14/microsoft.netcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
+    "/home/nethunter/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.14/microsoft.aspnetcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
+    "/home/nethunter/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.14/microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

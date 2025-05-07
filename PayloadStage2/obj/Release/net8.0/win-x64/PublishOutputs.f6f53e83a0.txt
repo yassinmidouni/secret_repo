@@ -1,0 +1,2 @@
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/bin/Release/net8.0/win-x64/publish/PayloadStage2.pdb
+/home/nethunter/payload-labyrinth-challenge/PayloadStage2/bin/Release/net8.0/win-x64/publish/PayloadStage2.exe
